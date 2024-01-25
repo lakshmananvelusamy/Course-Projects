@@ -1,0 +1,8 @@
+nation:25
+n_nationkey:25
+*
+orders,customer:1
+c_custkey:150000
+o_custkey:150000
+c_nationkey:25
+*

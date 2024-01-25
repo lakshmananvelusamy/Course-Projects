@@ -1,0 +1,7 @@
+supplier,partsupp:1
+s_suppkey:10000
+ps_suppkey:10000
+$
+supplier:supplier,partsupp
+partsupp:supplier,partsupp
+*

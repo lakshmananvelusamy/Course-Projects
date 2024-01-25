@@ -1,0 +1,10 @@
+part,lineitem:19653.2
+l_shipinstruct:4
+l_partkey:200000
+l_shipmode:7
+p_container:40
+p_partkey:200000
+$
+lineitem:part,lineitem
+part:part,lineitem
+*
